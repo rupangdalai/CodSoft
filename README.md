@@ -15,13 +15,13 @@ CodSoft is an IT services company with the motto "Code.Create.Succeed". They off
 
 Here is a list of the tasks I have completed during the internship period.
 
-### Task 1: Credit Card Fraud Detectiopn
-* *Description:* This models predicts the accuray of fraud detection and gives a fastest way to recognize frauds on the Credit Card Transactions.
+### Task 1: Credit Card Fraud Detection
+* *Description:* This models predicts the accuracy of fraud detection and gives a fastest way to recognize frauds on the Credit Card Transactions.
 * *Repository:* [https://github.com/rupangdalai/CodSoft]
 
-### Task 2: [Enter Task 2 Title Here - e.g., Spam SMS Detection]
-* *Description:* A brief overview of the task, the problem statement, and the dataset used.
-* *Repository:* [Link to the GitHub repository for this specific task]
+### Task 2: Customer Churn Prediction
+* *Description:* This models predicts the Customers Churn based on the previous data and credit score give a very fast solution for the recommendation for the churn prediction for the customers.
+* *Repository:* 
 
 ### Task 3: [Enter Task 3 Title Here - e.g., Credit Card Fraud Detection]
 * *Description:* A brief overview of the task, the problem statement, and the dataset used.
